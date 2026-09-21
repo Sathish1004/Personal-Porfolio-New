@@ -19,7 +19,7 @@ import './App.css';
 const LINKS = {
   github: "https://github.com/Sathish1004",
   linkedin: "https://www.linkedin.com/in/sathishsharmaj/",
-  resume: "/resume/Sathish_Sharma_Resume.pdf"
+  resume: "/resume/Sathish Sharma J_[2026].pdf"
 };
 
 // Tech Brand SVG Icons for 3D Holographic Orbit
@@ -987,7 +987,7 @@ export default function App() {
 
                 <a
                   href={LINKS.resume}
-                  download="Sathish_Sharma_Resume.pdf"
+                  download="Sathish Sharma J_[2026].pdf"
                   className="px-6 py-3 rounded-xl bg-white text-gray-900 border border-black/20 font-mono font-bold text-xs uppercase tracking-wider hover:border-black transition-colors flex items-center gap-2 shadow-sm"
                 >
                   <Download className="w-4 h-4 text-red-500" />
@@ -1685,7 +1685,7 @@ export default function App() {
 
                     <a
                       href={LINKS.resume}
-                      download="Sathish_Sharma_Resume.pdf"
+                      download="Sathish Sharma J_[2026].pdf"
                       className="inline-flex items-center gap-2 px-5 py-2.5 bg-black text-white text-xs font-mono font-bold uppercase rounded-lg hover:bg-gray-800 transition-colors"
                     >
                       <Download className="w-3.5 h-3.5" />
@@ -1992,7 +1992,7 @@ export default function App() {
               </a>
               <a
                 href={LINKS.resume}
-                download="Sathish_Sharma_Resume.pdf"
+                download="Sathish Sharma J_[2026].pdf"
                 className="px-3.5 py-1.5 rounded-full bg-white border border-black/25 text-gray-900 hover:bg-black hover:text-white hover:border-black shadow-xs hover:shadow-sm hover:-translate-y-0.5 transition-all cursor-pointer"
               >
                 RESUME
